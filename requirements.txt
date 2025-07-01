@@ -1,6 +1,5 @@
 discord.py
-openai
-nest_asyncio
+openai>=1.0.0
 yfinance
 matplotlib
-flask
+python-dotenv
